@@ -28,10 +28,6 @@
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME\&style=for-the-badge\&color=8a2be2\&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge\&color=7b2ff7\&labelColor=1a1a2e\&logo=github)
-![Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge\&color=b39ddb\&labelColor=1a1a2e\&logo=github)
-
 </div>
 
 <br/>
@@ -463,51 +459,6 @@ Terraform
 
 ---
 
-## 🔄 CI/CD Pipeline
-
-<div align="center">
-
-```text
-Developer
-    │
-    ▼
-  GitHub
-    │
-    ▼
-GitHub Actions
-    │
-    ├── Checkout Code
-    │
-    ├── Install Dependencies
-    │
-    ├── Run Tests
-    │
-    ├── Build Application
-    │
-    ├── Build Docker Image
-    │
-    ├── Authenticate with AWS
-    │
-    ├── Push Image → Amazon ECR
-    │
-    └── Deploy → Amazon EC2
-```
-
-</div>
-
-### CI/CD Goals
-
-* Automate repetitive deployment tasks
-* Run tests before deployment
-* Build consistent Docker images
-* Push images to Amazon ECR
-* Reduce manual deployment steps
-* Make deployments repeatable
-* Improve deployment reliability
-* Integrate source control with deployment automation
-
----
-
 ## 🌐 AWS Architecture Knowledge
 
 ### Networking
@@ -607,7 +558,7 @@ My approach to DevOps focuses on automating the complete application lifecycle:
          Amazon EC2
              │
              ▼
-       Application
+        Application
 ```
 
 Infrastructure is managed separately through:
@@ -689,69 +640,9 @@ My goal is to build infrastructure and deployment workflows that are:
 
 **AWS Certified Solutions Architect – Associate**
 
-![AWS Certified Solutions Architect Associate](https://img.shields.io/badge/AWS-Certified_Solutions_Architect_Associate-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+[![AWS Certified Solutions Architect Associate](https://img.shields.io/badge/AWS-Certified_Solutions_Architect_Associate-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)](https://www.credly.com/badges/bd076b95-ac51-420a-9567-06ffe9e1fe89/public_url)
 
 `AWS` `Cloud Architecture` `Networking` `Security` `Compute` `Storage`
-
-### 📚 Additional Learning
-
-**Web Development Bootcamp**
-
-![Web Development Bootcamp](https://img.shields.io/badge/Web_Development-Bootcamp-8A2BE2?style=for-the-badge)
-
-<br/>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=b39ddb&icon_color=8a2be2&text_color=c9c9c9&count_private=true" width="49%"/>
-
-<img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=8a2be2&fire=b39ddb&currStreakLabel=b39ddb" width="49%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=b39ddb&text_color=c9c9c9" width="49%"/>
-
-</div>
-
-<br/>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=discord&no-frame=true&column=7&margin-w=10&margin-h=10&row=1" />
-
-</div>
-
-<br/>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&bg_color=0d1117&color=b39ddb&line=8a2be2&point=ffffff" width="100%"/>
-
-</div>
-
-<br/>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
 
 <br/>
 
